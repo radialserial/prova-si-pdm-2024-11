@@ -3,4 +3,9 @@
     <string name="cafeteria_logo">Logo da cafeteria</string>
     <string name="cafeteria_name">Cafeteria do Seu Madruga</string>
     <string name="service">Serviço</string>
+    <string name="drink">Bebida</string>
+    <string name="drink_info">Informações sobre a bebida</string>
+    <string name="chosen_drink_picture">Uma foto do drink escolhido</string>
+    <string name="drink_name">Drink name</string>
+    <string name="drink_description">The description of the drink</string>
 </resources>

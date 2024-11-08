@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
 
         val services = listOf(
             Service("Bebidas") {
-                startActivity(Intent(this, BebidasActivity::class.java))
+                startActivity(Intent(this, DrinksActivity::class.java))
             },
             Service("Comida") {
                 Toast.makeText(this, "Ainda não servimos comida", Toast.LENGTH_SHORT).show()
